@@ -14,3 +14,5 @@ ZCZC W00 120 L05 Quiz related
 ZCZC W01 20 L04 Customizing GHP
 ZCZC W01 100 L02 Attended Monday class
 ZCZC W01 240 L11 Assignment #1
+ZCZC W01 100 L02 Attended Wednesday class
+ZCZC W01 30 L01 SCELE Forum
