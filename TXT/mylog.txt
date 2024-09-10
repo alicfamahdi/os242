@@ -21,4 +21,5 @@ ZCZC W01 60 L01 POP QUIZ
 ZCZC W01 10 L40 TXT/ related in general
 ZCZC W01 60 L05 Quiz related
 
-ZCZC W01 100 L02 Attended Monday class
+ZCZC W02 100 L02 Attended Monday class
+ZCZC W02 50 L32 YouTube: watching OS related topics, etc.
