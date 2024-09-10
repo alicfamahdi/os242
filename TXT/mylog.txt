@@ -19,3 +19,6 @@ ZCZC W01 100 L02 Attended Wednesday class
 ZCZC W01 90 L64 Helping friends on W01 Assignment
 ZCZC W01 60 L01 POP QUIZ
 ZCZC W01 10 L40 TXT/ related in general
+ZCZC W01 60 L05 Quiz related
+
+ZCZC W01 100 L02 Attended Monday class
