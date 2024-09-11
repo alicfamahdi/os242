@@ -24,4 +24,4 @@ ZCZC W01 60 L05 Quiz related
 ZCZC W02 100 L02 Attended Monday class
 ZCZC W02 50 L32 YouTube: watching OS related topics, etc.
 ZCZC W02 60 L12 Assignment #1 & #2
-
+ZCZC W02 100 L02 Attended Wednesday class
