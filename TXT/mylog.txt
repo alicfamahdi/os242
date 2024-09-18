@@ -37,4 +37,5 @@ ZCZC W03 60 SCELE related
 ZCZC W03 60 L13 Update Debian Guest, demos W03 & backup keys
 ZCZC W03 100 L02 Attended Wednesday class
 ZCZC W03 90 L13 Add virtual disk
+ZCZC W03 60 L13 Assignment #4 & #5
 
