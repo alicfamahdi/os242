@@ -33,9 +33,11 @@ ZCZC W02 60 L05 Quiz related
 ZCZC W02 90 L12 Rechecking weekly assignments
 
 ZCZC W03 60 L24 Fix ATTN
-ZCZC W03 60 SCELE related
+ZCZC W03 60 L01 SCELE related
 ZCZC W03 60 L13 Update Debian Guest, demos W03 & backup keys
 ZCZC W03 100 L02 Attended Wednesday class
 ZCZC W03 90 L13 Add virtual disk
 ZCZC W03 60 L13 Assignment #4 & #5
-
+ZCZC W03 60 L64 Helping friends on W03 Assignment
+ZCZC W03 60 L01 POP QUIZ
+ZCZC W03 60 L32 Youtube: watching OS related topics
