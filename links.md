@@ -10,5 +10,5 @@ permalink: LINKS/
 * [Make in 60 seconds](https://youtu.be/a8mPKBxQ9No?si=jlhYUkw6oL_HgRSC)
 * [C Tutorials: W3Schools](https://www.w3schools.com/c/)
 * [Makefile Tutorial for C/C++ | Linux](https://youtu.be/O5mG8H36V44?si=gXbV-FARkd80h_YB)
-
+* [Linuxize](https://linuxize.com/) -- got a lot of command pointers from here
 
