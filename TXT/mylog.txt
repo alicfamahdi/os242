@@ -43,7 +43,11 @@ ZCZC W03 60 L01 POP QUIZ
 ZCZC W03 60 L32 Youtube: watching OS related topics
 ZCZC W03 60 L05 Quiz related
 
-ZCZC W04 60 L14 Assignment #1 & #2
-ZCZC W04 60 L14 Assignment #3 & #4
-ZCZC W04 120 L01 SCELE related
+ZCZC W04 60 L14 Update demos, Debian Guest
+ZCZC W04 30 L14 Backup keys
+ZCZC W04 60 L14 Assignment script & compiling TLPI
+ZCZC W04 120 L01 POP QUIZ
+ZCZC W04 30 L40 Update myupdate, mylog, rerun myscript.sh
+ZCZC W04 120 L06 GSGS
+ZCZC W04 30 L40 Review links for myrank
 
