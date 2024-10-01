@@ -50,4 +50,7 @@ ZCZC W04 120 L01 POP QUIZ
 ZCZC W04 30 L40 Update myupdate, mylog, rerun myscript.sh
 ZCZC W04 120 L06 GSGS
 ZCZC W04 30 L40 Review links for myrank
+ZCZC W04 100 Attended Monday class
+ZCZC W04 60 Helping friends on W04 Assignment
+ZCZC W04 60 Rechecking weekly assignments
 
