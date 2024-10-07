@@ -54,3 +54,14 @@ ZCZC W04 100 Attended Monday class
 ZCZC W04 60 Helping friends on W04 Assignment
 ZCZC W04 60 Rechecking weekly assignments
 
+ZCZC W05 100 L15 Attended Wednesday class
+ZCZC W05 60 L05 Quiz related
+ZCZC W05 120 L15 Update demos, Debian Guest and backup keys
+ZCZC W05 60 L15 Assignment #3 & #4
+ZCZC W05 120 L01 POP QUIZ W05-3, W05-2, W05-1
+ZCZC W05 90 L15 Assignment #5
+ZCZC W05 100 L15 Attended Monday class
+ZCZC W05 60 L07 top
+ZCZC W05 30 TXT related: review links, mylog, myupdate, myrank
+ZCZC W05 60 L01 POP QUIZ W05-4
+ZCZC W05 30 L15 Rechecking assignments 
