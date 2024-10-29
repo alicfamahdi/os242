@@ -15,5 +15,11 @@ permalink: LINKS/
 * [Top Command Linux](https://phoenixnap.com/kb/top-command-in-linux)
 * [Increment Decrement Operators in C](https://www.geeksforgeeks.org/increment-and-decrement-operators-in-c/)
 * [Sed Command in Linux](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/)
+* [Loop Through Directory](https://www.warp.dev/terminus/bash-loop-through-files-in-directory)
+* [Date Format in Shell](https://stackoverflow.com/questions/1401482/yyyy-mm-dd-format-date-in-shell-script)
+* [Bash: Write to File](https://linuxize.com/post/bash-write-to-file/)
+
+
+
 
 

@@ -50,18 +50,27 @@ ZCZC W04 120 L01 POP QUIZ
 ZCZC W04 30 L40 Update myupdate, mylog, rerun myscript.sh
 ZCZC W04 120 L06 GSGS
 ZCZC W04 30 L40 Review links for myrank
-ZCZC W04 100 Attended Monday class
-ZCZC W04 60 Helping friends on W04 Assignment
-ZCZC W04 60 Rechecking weekly assignments
+ZCZC W04 100 L02 Attended Monday class
+ZCZC W04 60 L64 Helping friends on W04 Assignment
+ZCZC W04 60 L14 Rechecking weekly assignments
 
-ZCZC W05 100 L15 Attended Wednesday class
+ZCZC W05 100 L02 Attended Wednesday class
 ZCZC W05 60 L05 Quiz related
 ZCZC W05 120 L15 Update demos, Debian Guest and backup keys
 ZCZC W05 60 L15 Assignment #3 & #4
 ZCZC W05 120 L01 POP QUIZ W05-3, W05-2, W05-1
 ZCZC W05 90 L15 Assignment #5
-ZCZC W05 100 L15 Attended Monday class
+ZCZC W05 100 L02 Attended Monday class
 ZCZC W05 60 L07 top
 ZCZC W05 30 TXT related: review links, mylog, myupdate, myrank
 ZCZC W05 60 L01 POP QUIZ W05-4
-ZCZC W05 30 L15 Rechecking assignments 
+ZCZC W05 30 L15 Rechecking assignments
+
+ZCZC W06 60 L15 Fix ATTN
+ZCZC W06 100 L02 Attended Wednesday class
+ZCZC W06 30 L16 Update demos, Debian Guest, backup keys
+ZCZC W06 60 L16 Assignment script
+ZCZC W06 60 L01 POP QUIZ W06-1, W06-2
+ZCZC W06 180 L24 Scripting
+ZCZC W06 100 L02 Attended Monday class
+ZCZC W06 180 L01 POP QUIZ W06-3 ... W06-6
