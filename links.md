@@ -18,8 +18,8 @@ permalink: LINKS/
 * [Loop Through Directory](https://www.warp.dev/terminus/bash-loop-through-files-in-directory)
 * [Date Format in Shell](https://stackoverflow.com/questions/1401482/yyyy-mm-dd-format-date-in-shell-script)
 * [Bash: Write to File](https://linuxize.com/post/bash-write-to-file/)
-
-
+* [Symmetric Password Encryption with GPG](https://medium.com/@retprogramisto/how-to-use-symmetric-password-encryption-with-gpg-af0d9734d08c)
+* 
 
 
 
