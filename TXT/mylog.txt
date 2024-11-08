@@ -80,3 +80,10 @@ ZCZC W07 120 L17 Update demos, assignment script
 ZCZC W07 60 L17 Synchronization
 ZCZC W07 180 L01 POP QUIZ
 ZCZC W07 30 L40 Update mylog, myupdate, myrank
+ZCZC W07 30 L17 Fix ATTN
+ZCZC W07 100 L02 Attended Wednesday class
+ZCZC W07 100 L02 Attended Monday class
+
+ZCZC W08 100 L02 Attended Wednesday class
+ZCZC W08 120 L17 Update demos, assignment script
+
