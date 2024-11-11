@@ -19,7 +19,7 @@ permalink: LINKS/
 * [Date Format in Shell](https://stackoverflow.com/questions/1401482/yyyy-mm-dd-format-date-in-shell-script)
 * [Bash: Write to File](https://linuxize.com/post/bash-write-to-file/)
 * [Symmetric Password Encryption with GPG](https://medium.com/@retprogramisto/how-to-use-symmetric-password-encryption-with-gpg-af0d9734d08c)
-* 
-
-
+* [Capitalize first letter with sed](https://unix.stackexchange.com/questions/631384/using-sed-tr-or-awk-to-capitolise-the-first-letter)
+* [Show first few lines of a file](https://www.cyberciti.biz/faq/unix-linux-show-first-10-20-lines-of-file/)
+* [Kernotex's How to Linux from Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)
 
