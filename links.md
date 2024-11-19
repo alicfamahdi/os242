@@ -22,4 +22,6 @@ permalink: LINKS/
 * [Capitalize first letter with sed](https://unix.stackexchange.com/questions/631384/using-sed-tr-or-awk-to-capitolise-the-first-letter)
 * [Show first few lines of a file](https://www.cyberciti.biz/faq/unix-linux-show-first-10-20-lines-of-file/)
 * [Kernotex's How to Linux from Scratch](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)
+* [How to Mount and Unmount](https://linuxize.com/post/how-to-mount-and-unmount-file-systems-in-linux/)
+* [LFS Book}(https://www.linuxfromscratch.org/lfs/view/12.2/index.html)
 
