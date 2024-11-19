@@ -92,3 +92,8 @@ ZCZC W08 100 L02 Attended Monday class
 ZCZC W08 120 L18 LFS Chapters 1-3
 ZCZC W08 180 L18 LFS Chapters 4-5
 ZCZC W08 30 L01 POP QUIZ W08-1 & W08-2 
+
+ZCZC W08 100 L02 Attended Wednesday class
+ZCZC W08 120 L18 Update demos, assignment script
+ZCZC W08 240 L18 LFS Chapter 6
+ZCZC W09 100 L02 Attended Monday class
